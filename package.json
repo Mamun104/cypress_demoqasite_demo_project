@@ -1,0 +1,21 @@
+{
+  "name": "Ecom_Automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.0.0",
+    "cypress-downloadfile": "^1.2.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.2"
+  }
+}
